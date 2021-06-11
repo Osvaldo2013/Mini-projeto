@@ -1,2 +1,2 @@
-# Mini projeto
+# Primeiro projeto
  Desafio 10
